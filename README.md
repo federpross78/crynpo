@@ -1,1 +1,1 @@
-Price change alerts
+Alerts on price changes by specified parameters
