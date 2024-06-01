@@ -1,7 +1,7 @@
 import websocket
 import requests
 import json
-// pres
+// pre
 alerts = []
 
 TELEGRAM_TOKEN = 'TOKEN'
