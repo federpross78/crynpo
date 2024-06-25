@@ -8,7 +8,7 @@ TELEGRAM_TOKEN = 'TOKEN'
 TELEGRAM_CHANNEL = '@CHANNEL'
 
 coin_dict = {
-    "SOLUSDT": [145.22, 'Breakout'],
+    "SOLUSDT": [144.22, 'Breakout'],
     "WIFUSDT": [1.77, 'cross'],
 }
 
