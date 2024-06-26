@@ -9,7 +9,7 @@ TELEGRAM_CHANNEL = '@CHANNEL'
 
 coin_dict = {
     "SOLUSDT": [144.22, 'Breakout'],
-    "WIFUSDT": [1.77, 'cross'],
+    "WIFUSDT": [1.87, 'cross'],
 }
 
 
